@@ -1,0 +1,163 @@
+main {
+    padding: 41px 105px 25px 250px;
+    min-height: 400px;
+    background-color: #FFF;
+
+}
+
+.main-image {
+    position: relative;
+    background: url(ironman.jpeg) no-repeat center;
+    background-size: contain;
+    width: auto;
+    height: 15cm;
+}
+
+.main-image a:hover {
+    background: linear-gradient(180deg, #a11b26, #cccaa3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.main-image a:active {
+    background: linear-gradient(180deg, #e40719, #d1cb60);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.main-image a {
+    /* border: 2px solid green; */
+    font-family: 'IRON MAN OF WAR 002 NCV', sans-serif;
+    background: linear-gradient(90deg, #a11b26, #cccaa3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 110px;
+    display: block;
+    position: absolute;
+    bottom: -114px;
+    left: 324px;
+}
+
+
+
+.note img {
+    /* border: 2px solid red;*/
+    display: block;
+    position: absolute;
+    top: 269px;
+    left: 498px;
+
+    transform: rotate(6deg);
+    height: 156px;
+}
+
+
+
+#genius {
+    font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;
+    color: rgb(0, 0, 0, 0.7);
+    display: inline-block;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+
+    font-weight: 700;
+    line-height: 26.4px;
+    margin: 3px;
+    top: -317px;
+    left: 300px;
+    height: 16px;
+    position: relative;
+    font-size: large;
+    transform: rotate(7deg);
+
+}
+
+#billionaire {
+    font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;
+    color: rgb(0, 0, 0, 0.7);
+    display: inline-block;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+
+    font-weight: 700;
+    line-height: 26.4px;
+    margin: 3px;
+    top: -296px;
+    left: 219px;
+    height: 16px;
+    position: relative;
+    font-size: large;
+    transform: rotate(8deg);
+}
+
+#playboy {
+    font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;
+    color: rgb(0, 0, 0, 0.7);
+    display: inline-block;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+
+    font-weight: 700;
+    line-height: 26.4px;
+    margin: 3px;
+    top: -276px;
+    left: 130px;
+    height: 16px;
+    position: relative;
+    font-size: large;
+    transform: rotate(7deg);
+}
+
+#philanthropist {
+    font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;
+    color: rgb(0, 0, 0, 0.7);
+    display: inline-block;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    margin: 3px;
+    top: -256px;
+    left: 27px;
+    height: 16px;
+    position: relative;
+    transform: rotate(7deg);
+}
+
+.crown img {
+    position: absolute;
+    top: 37px;
+    left: 629px;
+    transform: rotate(16deg);
+    height: 155px;
+    ;
+
+}
+
+.cigar img {
+    position: absolute;
+    top: 263px;
+    left: 773px;
+    transform: rotate(-4deg);
+    height: 164px;
+}
+
+.dialoge a p {
+    font-family: 'IRON MAN OF WAR 002 NCV', sans-serif;
+    position: absolute;
+    top: 512px;
+    left: 598px;
+    /* size: 203px; */
+    /* height: 37px; */
+    font-size: x-large;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration: sx;
+    text-shadow: 2px 2px black;
+}
